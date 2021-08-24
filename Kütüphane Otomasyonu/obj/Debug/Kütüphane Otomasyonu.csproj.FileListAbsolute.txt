@@ -1,0 +1,51 @@
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\kütüphaneDb.mdb
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeListele.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.BilgilerimiGüncelle.resources
+C:\Users\azadk\OneDrive\Resimler\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Favorilerim.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\bin\Debug\kütüphaneDb.mdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.BilgilerimiGüncelle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Favorilerim.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeListele.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\bin\Debug\kütüphaneDb.mdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.BilgilerimiGüncelle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Favorilerim.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeListele.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\PROJE-1 C#\Kütüphane Otomasyonu - Kopya\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
